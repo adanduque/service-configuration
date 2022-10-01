@@ -1,0 +1,12 @@
+booking:
+  property: Product Profile Prod
+
+spring:
+  # ===============================
+  # JPA / HIBERNATE
+  # ===============================
+  jpa:
+    hibernate:
+      ddl-auto: update
+      show-sql: true
+      generate-ddl: true
